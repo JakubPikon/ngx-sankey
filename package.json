@@ -1,0 +1,9 @@
+{
+  "name": "ngx-sankey",
+  "version": "0.0.1",
+  "description": "d3-sankey wrapper for Angular.io apps",
+  "main": "index.js",
+  "repository": "https://github.com/JakubPikon/ngx-sankey",
+  "author": "Jakub Pikon <pikon.jakub@gmail.com>",
+  "license": "MIT"
+}
